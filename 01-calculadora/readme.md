@@ -1,6 +1,6 @@
 **AC**
 
-1. Cadastrar uma pessoa: nome e data de nascimento em objeto e armazenar em um array.
-   1. Ao armazenar a data de nascimento deve calcular qual é a idade da pessoa e adicionar dentro do objeto
-   2. Adicionar dentro do objeto também quantos anos falta para a pessoa ter 100 anos
-2. Toda vez que o codigo executar e cadastrar um objeto no array, deve perguntar novamente se quer cadastrar outro ou exibir os cadastrados.
+1. Ao rodar o codigo, o programa deve perguntar “o que deseja calcular adição, subtração, multiplicação?”
+2. ⁠O programa deve fazer o calculo e exibir na tela
+3. Armazenar o histórico de quais calculos foram feito
+4. Ao terminar um calculo e exibir o resultado, o programa deve perguntar se deseja calcular novamente: se sim, perguntar o calculo e se não mostrar histórico
