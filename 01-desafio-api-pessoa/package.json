@@ -1,0 +1,20 @@
+{
+  "name": "desafio-api-pessoa",
+  "version": "1.0.0",
+  "description": "1. Ter nodejs versão >= 18 instalada 2. IDE - preferencialmente o vscode, mas pode ser qualquer outra sublime, phstorm 3. Entendimento basico sobre api em nodejs, utilizando express 4. Entendimento basico de typescript",
+  "main": "server.ts",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev --respawn --transpile-only server.ts"
+  },
+  "author": "Mundo xu",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "ts-node-dev": "^2.0.0"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
